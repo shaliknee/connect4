@@ -1,5 +1,5 @@
 # connectfour.py
-#
+# Written and provided by Prof. Alex Thornton, Department of ICS at UCI
 # ICS 32 Winter 2022
 # Project #2: Send Me On My Way
 
